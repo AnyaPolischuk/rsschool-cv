@@ -34,4 +34,19 @@ if (login == 'admin') {
     alert('Отменено') 
 } else {
     alert('Я вас не знаю')
-} ```
+} 
+```
+
+## Experience
+I don't have work experience in IT yet.
+
+## Education
+* **University:** Saint-Petersburg State University of Economics (2018-2022), Faculty of Economics and Finance
+* **Cources:**  
+1) HTML Academy
+2) Stepik
+3) Code Basics
+4) Videos on YouTube, textbook learn.javascript
+
+## English
+B1 (I study English in university and on individual lessons with a tutor)
