@@ -19,7 +19,9 @@ My main goal is becoming a Junior Frontend Developer, find an interesting job. I
 * Figma/Adobe Photoshop
 
 ## Example of code 
-``` let login = prompt('Кто там?', '')
+
+``` 
+let login = prompt('Кто там?', '')
 
 if (login == 'admin') {
     let pass = prompt('Введите пароль', '')
@@ -43,10 +45,10 @@ I don't have work experience in IT yet.
 ## Education
 * **University:** Saint-Petersburg State University of Economics (2018-2022), Faculty of Economics and Finance
 * **Cources:**  
-1) HTML Academy
-2) Stepik
-3) Code Basics
-4) Videos on YouTube, textbook learn.javascript
+1. HTML Academy
+2. Stepik
+3. Code Basics
+4. Videos on YouTube, textbook learn.javascript
 
 ## English
 B1 (I study English in university and on individual lessons with a tutor)
