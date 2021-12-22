@@ -1,3 +1,88 @@
-h1 {
-    color: blue;
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color: #000;
+    margin: 0;
 }
+
+.container {
+    display: flex;
+    max-width: 1024px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    
+}
+/* lert part*/
+.leftpart {
+    width: 353px;
+    border: 1px solid #000;   
+}
+
+.leftpart_photo {
+    width: 221px;
+    height: 276px;
+    padding: 46px 66px 0px 66px;;
+}
+
+.leftpart_contact {
+    border: 1px solid rgb(255, 255, 255);
+    margin-bottom: 15px;
+}
+
+
+.leftpart_title {
+    size: 36px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.left_hr {
+    width: 257px;
+    align: center;
+}
+
+.leftpart_connection {
+    padding-left: 72px;  
+}
+
+.leftpart_skills {
+    padding-left: 30px;
+    line-height: 32px;
+}
+
+.leftpart_english {
+    padding-left: 65px;
+}
+
+
+
+
+/* right part*/
+.rightpart {
+    width: 671px;
+    background-color: #4880BB;
+    border: 1px solid #000;
+}
+
+.rightpart_about {
+    padding-left: 70px;
+    padding-top: 20px;
+}
+
+h1 {
+    color: #fff;
+    font-weight: bold;
+    font-size: 48px;
+}
+
+.rightpart_info {
+    color: #fff;
+    size: 18px;
+
+}
+
+.right_hr {
+    width: 560px;
+    align: center;  
+}
+
