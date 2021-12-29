@@ -1,0 +1,181 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color: #000;
+    margin: 0;
+    background-color: #E0F1EE;
+}
+
+.container {
+    display: flex;
+    max-width: 1024px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    background-color: #fff;
+    border: 1px solid #662DF9;
+    
+}
+/* lert part*/
+.leftpart {
+    width: 353px;
+    border-right: 1px solid #662DF9;
+}
+
+.leftpart_photo {
+    width: 221px;
+    height: 276px;
+    padding: 46px 66px 0px 66px;;
+}
+
+.leftpart_contact {
+    border: 1px solid rgb(255, 255, 255);
+    margin-bottom: 15px;
+}
+
+
+.leftpart_title {
+    size: 36px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.left_hr {
+    width: 257px;
+    align: center;
+    border: none;
+	border-top: 1px solid #333;
+}
+
+.leftpart_connection {
+     padding-left: 40px;  
+}
+
+.leftpart_phone {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.leftpart_connec {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.leftpart_skills {
+    padding-left: 30px;
+    
+}
+
+.leftpart_english {
+    padding-left: 65px;
+    line-height: 1.3em;
+}
+
+.rightpart_code {
+    line-height: 1.3em;
+}
+
+
+
+
+/* right part*/
+.rightpart {
+    width: 671px;
+    background-color: #4880BB;
+    line-height: 17px;
+    color: #fff;
+    
+}
+
+.rightpart_about {
+    padding-left: 70px;
+    padding-top: 35px;
+    padding-bottom: 5px;
+   
+}
+
+.rightpart_spisok {
+    padding: 0;
+    margin-left: 18px;
+}
+
+h1 {
+    color: #fff;
+    font-weight: bold;
+    font-size: 48px;
+}
+
+.rightpart_info {
+    color: #fff;
+    size: 18px;
+    
+
+}
+
+.right_hr {
+    width: 560px;
+    align: center; 
+    border: none;
+	border-top: 1px solid #fff;
+}
+
+
+.rightpart_info_goal {
+    width: 550px;
+    line-height: 1.3em; 
+}
+
+.rigtpart_education {
+    width: 550px;
+    line-height: 1.2em; 
+    
+}
+
+.rightpart-title {
+    margin-top: 0;
+}
+
+li {
+    margin-bottom: 25px;
+}
+
+/* footer */
+footer {
+    background-color: #fff;
+}
+
+.footer_bot {
+    display: flex;
+    max-width: 1024px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.footer_all {
+    display: flex;
+    width: 1024px;
+    border-right: 1px solid #662DF9;
+    border-left: 1px solid #662DF9;
+    border-bottom: 1px solid #662DF9;
+}
+
+.footer_github {
+    padding-left: 115px;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 330px;
+}
+
+
+
+.footer_year {
+    font-weight: bold;
+    padding-top: 20px;
+    margin-right: 330px;
+    margin-bottom: 20px;
+}
+
+.footer_rsschool {
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
