@@ -1,4 +1,4 @@
-body {
+/* body {
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
     color: #000;
@@ -14,9 +14,9 @@ body {
     background-color: #fff;
     border: 1px solid #662DF9;
     
-}
+} */
 /* lert part*/
-.leftpart {
+/* .leftpart {
     width: 353px;
     border-right: 1px solid #662DF9;
 }
@@ -73,13 +73,13 @@ body {
 
 .rightpart_code {
     line-height: 1.3em;
-}
+} */
 
 
 
 
 /* right part*/
-.rightpart {
+/* .rightpart {
     width: 671px;
     background-color: #4880BB;
     line-height: 17px;
@@ -137,10 +137,10 @@ h1 {
 
 li {
     margin-bottom: 25px;
-}
+} */
 
 /* footer */
-footer {
+/* footer {
     background-color: #fff;
 }
 
@@ -178,4 +178,4 @@ footer {
 .footer_rsschool {
     padding-top: 20px;
     margin-bottom: 20px;
-}
+} */
